@@ -1,0 +1,3 @@
+/home/dungthu/Workspace/Infrared_small_detection/irview/CMakeFiles/rebuild_cache.dir
+/home/dungthu/Workspace/Infrared_small_detection/irview/CMakeFiles/irview.dir
+/home/dungthu/Workspace/Infrared_small_detection/irview/CMakeFiles/edit_cache.dir
